@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Ghost!? (Bad Mood Junkie ver.)",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2025-12-17T15:04:50.071727Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ghost!? (Bad Mood Junkie ver.)",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_Ghost!__(Bad_Mood_Junkie_ver.)_キタニタツヤ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ghost!? (Bad Mood Junkie ver.)",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_Ghost!__(Bad_Mood_Junkie_ver.)_キタニタツヤ.txt"
+    }
+  ]
+}
